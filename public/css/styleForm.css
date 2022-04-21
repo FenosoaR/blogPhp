@@ -1,0 +1,65 @@
+*{
+
+	margin: 0;
+	padding: 0;
+}
+
+
+body{
+
+	background-image: url('../img/slide-1.jpg');
+	background-size: cover;
+	background-attachment: fixed;
+	font-family: new time roman;
+}
+
+h1{
+	font-size: 40px;
+	margin-top: 100px;
+	color: white;
+
+}
+
+h3{
+
+	font-size: 25px;
+	color: black;
+	margin-top: 10px;
+
+}
+
+.fa{
+
+	font-size: 35px;
+	float: right;
+	margin-top: 10px;
+}
+
+.col-md-5{
+	margin-top: 80px;
+	background: white;
+	border-radius: 5px;
+	padding: 25px;
+}
+
+.label{
+
+	margin-top: 15px;
+}
+
+
+.user {
+  width: 68px;
+  height: 75px;
+  background-color: white;
+  margin-top: 0px;
+  margin-left: 66px;
+}
+
+.user img{
+
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+	
+}
